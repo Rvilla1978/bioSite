@@ -3,6 +3,7 @@ body {
     background-color: #f5dfc9;
 	font-size: 40px;
 }
+
 header {
     background-color: #99815c;
     text-align: center;
@@ -13,7 +14,7 @@ h1 {
 	font-size: 70px;
 }
 nav {
-    margin-top: 20px;
+    margin-top: 20px;/**/
 }
 button {
     background-color: #e0b47b;
