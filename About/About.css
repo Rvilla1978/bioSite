@@ -56,8 +56,9 @@ h2, h3 {
     color: #99815c;
 }
 footer {
-    text-align: center;
+    text-align: Right;
     margin-top: 60px;
     background-color: #99815c;
     padding: 10px;
+	font-size: 40px;
 }
